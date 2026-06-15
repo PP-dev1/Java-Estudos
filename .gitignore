@@ -3,6 +3,8 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
+PedroPaulo2026.1.iml
+.idea
 
 ### Eclipse ###
 .apt_generated
